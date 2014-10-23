@@ -2,6 +2,8 @@
 
 The ultimate treatment for forms
 
+Il faut installer Compass, susy, breakpoint, bower et grunt.
+
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
